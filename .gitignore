@@ -3,7 +3,7 @@ node_modules/
 dist/
 npm-debug.log
 yarn-error.log
-store.js
+src/store/store.js
 
 # Editor directories and files
 .idea
